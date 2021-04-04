@@ -1,3 +1,3 @@
 # Todolist
 
-A simple ToDo list built with Python and Django
+A simple ToDo list app built with Python and Django
